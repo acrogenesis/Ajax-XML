@@ -1,0 +1,21 @@
+.border{
+  border: solid;
+  width: 45%;
+}
+.left{
+  float:left;
+  height:80%;
+}
+.right{
+  float:right;
+  height: 40%;
+}
+html{
+  height:100%;
+}
+body {
+  height:100%;
+}
+.clickable {
+  cursor: pointer;
+}
